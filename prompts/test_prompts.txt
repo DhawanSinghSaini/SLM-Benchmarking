@@ -1,0 +1,44 @@
+# Add this to comparison/comparison_runner.py
+
+TEST_PROMPTS = [
+
+    # ── CATEGORY 1: CODE ASSISTANCE (6 prompts) ──
+    "Write a Python function to check if a number is prime.",
+    "Write a Python function to reverse a string.",
+    "Write a Java program to find the largest element in an array.",
+    "Write a SQL query to find the second highest salary from an employee table.",
+    "Explain what a binary search algorithm is and write it in Python.",
+    "Write a Python function to count the frequency of each word in a string.",
+
+    # ── CATEGORY 2: TRANSLATION (6 prompts) ──
+    "Translate 'Good morning, how are you?' to Hindi.",
+    "Translate 'I love programming' to French.",
+    "Translate 'Artificial intelligence is changing the world' to Spanish.",
+    "Translate 'Thank you for your help' to Japanese.",
+    "Translate 'What time is it?' to German.",
+    "Translate 'I am learning machine learning' to Tamil.",
+
+    # ── CATEGORY 3: WRITING HELP (6 prompts) ──
+    "Write a professional email to a client apologising for a project delay.",
+    "Write a cover letter for a software engineer applying to a product startup.",
+    "Write a LinkedIn post announcing a new job at a tech company.",
+    "Write a resignation letter to a manager with a 2-week notice.",
+    "Write a thank you email after a job interview.",
+    "Write a short bio for a data science student's portfolio website.",
+
+    # ── CATEGORY 4: Q&A (6 prompts) ──
+    "What is the difference between machine learning and deep learning?",
+    "Explain how a transformer model works in simple terms.",
+    "What is the CAP theorem in distributed systems?",
+    "What is the difference between supervised and unsupervised learning?",
+    "What is overfitting in machine learning and how do you prevent it?",
+    "What is the difference between a process and a thread?",
+
+    # ── CATEGORY 5: DOCUMENTATION (6 prompts) ──
+    "Summarize the pros and cons of using microservices architecture.",
+    "Document the key differences between REST and GraphQL APIs.",
+    "Summarize what Docker does and why developers use it.",
+    "Document the SOLID principles of software design in brief.",
+    "Explain the differences between SQL and NoSQL databases.",
+    "Summarize what Agile methodology is and its core principles.",
+]

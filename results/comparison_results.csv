@@ -1,0 +1,91 @@
+model,category,prompt,ttft_seconds,total_latency_seconds,tokens_per_second,response_length,peak_memory_mb,timestamp
+phi4-mini,code,Write a Python function to check if a number is prime....,7.693,33.621,6.22,870,13943.43,10-04-2026 23:57:16
+phi4-mini,code,Write a Python function to reverse a string....,0.762,8.34,8.99,296,13550.1,10-04-2026 23:57:25
+phi4-mini,code,Write a Java program to find the largest element in an array...,1.111,41.536,9.97,2258,13480.8,10-04-2026 23:58:06
+phi4-mini,code,Write a SQL query to find the second highest salary from an ...,1.009,59.691,9.85,2902,13551.5,10-04-2026 23:59:06
+phi4-mini,code,Explain what a binary search algorithm is and write it in Py...,1.106,68.003,9.19,3201,13649.06,11-04-2026 00:00:14
+phi4-mini,code,Write a Python function to count the frequency of each word ...,1.755,46.719,8.95,2335,15565.79,11-04-2026 00:01:01
+phi4-mini,translation,"Translate 'Good morning, how are you?' to Hindi....",1.095,7.115,8.71,292,15255.68,11-04-2026 00:01:08
+phi4-mini,translation,Translate 'I love programming' to French....,0.865,2.324,7.31,77,14679.32,11-04-2026 00:01:10
+phi4-mini,translation,Translate 'Artificial intelligence is changing the world' to...,1.016,1.826,4.93,51,14683.5,11-04-2026 00:01:12
+phi4-mini,translation,Translate 'Thank you for your help' to Japanese....,1.193,3.068,6.84,48,14694.67,11-04-2026 00:01:15
+phi4-mini,translation,Translate 'What time is it?' to German....,0.945,10.342,10.15,447,14657.12,11-04-2026 00:01:25
+phi4-mini,translation,Translate 'I am learning machine learning' to Tamil....,0.951,3.709,5.66,87,15131.0,11-04-2026 00:01:29
+phi4-mini,writing,Write a professional email to a client apologising for a pro...,1.251,44.465,9.83,2543,15213.99,11-04-2026 00:02:14
+phi4-mini,writing,Write a cover letter for a software engineer applying to a p...,1.164,30.961,10.53,1939,13892.14,11-04-2026 00:02:45
+phi4-mini,writing,Write a LinkedIn post announcing a new job at a tech company...,1.069,24.53,10.4,1369,13991.61,11-04-2026 00:03:09
+phi4-mini,writing,Write a resignation letter to a manager with a 2-week notice...,1.053,35.575,10.34,2057,13443.6,11-04-2026 00:03:45
+phi4-mini,writing,Write a thank you email after a job interview....,0.912,26.07,10.59,1445,12905.83,11-04-2026 00:04:11
+phi4-mini,writing,Write a short bio for a data science student's portfolio web...,1.367,20.825,10.52,1367,12553.31,11-04-2026 00:04:32
+phi4-mini,qa,What is the difference between machine learning and deep lea...,1.006,18.084,10.51,1143,12618.55,11-04-2026 00:04:50
+phi4-mini,qa,Explain how a transformer model works in simple terms....,1.202,18.276,10.34,1043,12771.23,11-04-2026 00:05:08
+phi4-mini,qa,What is the CAP theorem in distributed systems?...,1.203,19.164,10.18,1083,12779.77,11-04-2026 00:05:27
+phi4-mini,qa,What is the difference between supervised and unsupervised l...,2.081,23.195,9.96,1351,12209.36,11-04-2026 00:05:50
+phi4-mini,qa,What is overfitting in machine learning and how do you preve...,1.2,25.812,10.81,1558,12258.34,11-04-2026 00:06:16
+phi4-mini,qa,What is the difference between a process and a thread?...,0.996,38.23,11.17,2342,12410.18,11-04-2026 00:06:54
+phi4-mini,documentation,Summarize the pros and cons of using microservices architect...,1.301,9.808,10.2,605,12385.32,11-04-2026 00:07:04
+phi4-mini,documentation,Document the key differences between REST and GraphQL APIs....,0.877,42.602,10.12,2430,13326.0,11-04-2026 00:07:47
+phi4-mini,documentation,Summarize what Docker does and why developers use it....,1.124,19.811,10.75,1233,12762.13,11-04-2026 00:08:07
+phi4-mini,documentation,Document the SOLID principles of software design in brief....,1.491,23.046,9.5,1188,13054.0,11-04-2026 00:08:30
+phi4-mini,documentation,Explain the differences between SQL and NoSQL databases....,1.069,31.073,10.43,1748,12985.82,11-04-2026 00:09:01
+phi4-mini,documentation,Summarize what Agile methodology is and its core principles....,1.088,27.896,10.54,1727,12958.55,11-04-2026 00:09:29
+llama3.2,code,Write a Python function to check if a number is prime....,6.838,21.978,7.28,705,14782.82,11-04-2026 00:09:51
+llama3.2,code,Write a Python function to reverse a string....,0.87,4.587,9.37,226,14791.49,11-04-2026 00:09:55
+llama3.2,code,Write a Java program to find the largest element in an array...,2.132,24.878,10.65,1257,14810.48,11-04-2026 00:10:20
+llama3.2,code,Write a SQL query to find the second highest salary from an ...,1.036,15.104,11.72,827,14711.58,11-04-2026 00:10:35
+llama3.2,code,Explain what a binary search algorithm is and write it in Py...,1.137,38.399,11.15,2073,14725.67,11-04-2026 00:11:14
+llama3.2,code,Write a Python function to count the frequency of each word ...,1.128,9.797,9.8,544,14720.23,11-04-2026 00:11:23
+llama3.2,translation,"Translate 'Good morning, how are you?' to Hindi....",1.222,10.365,11.87,454,14726.53,11-04-2026 00:11:34
+llama3.2,translation,Translate 'I love programming' to French....,0.761,4.258,10.33,171,14741.15,11-04-2026 00:11:38
+llama3.2,translation,Translate 'Artificial intelligence is changing the world' to...,0.967,6.496,10.93,333,14764.03,11-04-2026 00:11:44
+llama3.2,translation,Translate 'Thank you for your help' to Japanese....,0.893,10.655,10.98,459,14767.23,11-04-2026 00:11:55
+llama3.2,translation,Translate 'What time is it?' to German....,0.943,9.718,11.52,473,14408.07,11-04-2026 00:12:05
+llama3.2,translation,Translate 'I am learning machine learning' to Tamil....,0.98,3.933,5.59,29,14248.13,11-04-2026 00:12:09
+llama3.2,writing,Write a professional email to a client apologising for a pro...,1.128,26.972,12.38,1704,13761.31,11-04-2026 00:12:36
+llama3.2,writing,Write a cover letter for a software engineer applying to a p...,1.041,40.902,12.79,2725,12126.23,11-04-2026 00:13:17
+llama3.2,writing,Write a LinkedIn post announcing a new job at a tech company...,1.01,17.663,12.57,1044,12180.47,11-04-2026 00:13:34
+llama3.2,writing,Write a resignation letter to a manager with a 2-week notice...,1.006,21.376,12.82,1283,12147.58,11-04-2026 00:13:56
+llama3.2,writing,Write a thank you email after a job interview....,0.933,23.014,12.51,1529,12256.36,11-04-2026 00:14:19
+llama3.2,writing,Write a short bio for a data science student's portfolio web...,1.076,18.939,12.2,1285,12433.73,11-04-2026 00:14:38
+llama3.2,qa,What is the difference between machine learning and deep lea...,1.016,27.35,12.61,1871,10000.37,11-04-2026 00:15:05
+llama3.2,qa,Explain how a transformer model works in simple terms....,1.162,31.899,12.73,2155,10136.27,11-04-2026 00:15:37
+llama3.2,qa,What is the CAP theorem in distributed systems?...,1.061,22.145,13.37,1575,10128.18,11-04-2026 00:15:59
+llama3.2,qa,What is the difference between supervised and unsupervised l...,0.914,36.266,13.51,2430,10150.98,11-04-2026 00:16:35
+llama3.2,qa,What is overfitting in machine learning and how do you preve...,1.148,32.803,12.86,2128,10208.83,11-04-2026 00:17:08
+llama3.2,qa,What is the difference between a process and a thread?...,0.91,37.368,12.87,2443,10174.7,11-04-2026 00:17:45
+llama3.2,documentation,Summarize the pros and cons of using microservices architect...,1.172,40.651,12.84,2791,10197.7,11-04-2026 00:18:26
+llama3.2,documentation,Document the key differences between REST and GraphQL APIs....,1.029,64.397,11.38,3694,10294.76,11-04-2026 00:19:31
+llama3.2,documentation,Summarize what Docker does and why developers use it....,1.214,23.694,12.83,1753,10281.1,11-04-2026 00:19:54
+llama3.2,documentation,Document the SOLID principles of software design in brief....,1.057,33.052,12.77,2117,10305.05,11-04-2026 00:20:27
+llama3.2,documentation,Explain the differences between SQL and NoSQL databases....,1.044,42.294,13.0,2807,10215.71,11-04-2026 00:21:10
+llama3.2,documentation,Summarize what Agile methodology is and its core principles....,1.223,23.709,13.03,1665,10262.3,11-04-2026 00:21:33
+gemma2:2b,code,Write a Python function to check if a number is prime....,5.287,43.11,9.86,1708,12389.24,11-04-2026 00:22:16
+gemma2:2b,code,Write a Python function to reverse a string....,0.816,19.887,11.97,1018,12074.55,11-04-2026 00:22:36
+gemma2:2b,code,Write a Java program to find the largest element in an array...,1.035,37.824,11.45,1988,12211.06,11-04-2026 00:23:14
+gemma2:2b,code,Write a SQL query to find the second highest salary from an ...,0.908,21.173,12.33,1246,12197.09,11-04-2026 00:23:35
+gemma2:2b,code,Explain what a binary search algorithm is and write it in Py...,1.009,60.025,11.8,3138,12122.91,11-04-2026 00:24:35
+gemma2:2b,code,Write a Python function to count the frequency of each word ...,0.974,35.896,11.76,1869,12125.13,11-04-2026 00:25:11
+gemma2:2b,translation,"Translate 'Good morning, how are you?' to Hindi....",0.901,11.768,12.83,547,12125.07,11-04-2026 00:25:23
+gemma2:2b,translation,Translate 'I love programming' to French....,0.701,10.525,12.54,574,12123.94,11-04-2026 00:25:34
+gemma2:2b,translation,Translate 'Artificial intelligence is changing the world' to...,0.812,1.462,5.47,53,12122.29,11-04-2026 00:25:35
+gemma2:2b,translation,Translate 'Thank you for your help' to Japanese....,0.806,12.334,12.57,540,12123.9,11-04-2026 00:25:47
+gemma2:2b,translation,Translate 'What time is it?' to German....,0.961,6.878,11.49,335,12136.09,11-04-2026 00:25:54
+gemma2:2b,translation,Translate 'I am learning machine learning' to Tamil....,0.717,11.462,12.39,616,12148.02,11-04-2026 00:26:06
+gemma2:2b,writing,Write a professional email to a client apologising for a pro...,0.969,15.221,12.61,1028,12207.4,11-04-2026 00:26:21
+gemma2:2b,writing,Write a cover letter for a software engineer applying to a p...,0.878,32.081,13.15,2147,12221.39,11-04-2026 00:26:53
+gemma2:2b,writing,Write a LinkedIn post announcing a new job at a tech company...,0.911,16.325,12.56,985,10012.19,11-04-2026 00:27:09
+gemma2:2b,writing,Write a resignation letter to a manager with a 2-week notice...,0.953,15.777,12.04,899,10031.69,11-04-2026 00:27:25
+gemma2:2b,writing,Write a thank you email after a job interview....,0.714,18.106,13.14,1147,10005.65,11-04-2026 00:27:43
+gemma2:2b,writing,Write a short bio for a data science student's portfolio web...,0.895,30.439,12.98,1849,9999.39,11-04-2026 00:28:14
+gemma2:2b,qa,What is the difference between machine learning and deep lea...,0.87,47.427,12.71,3121,10018.21,11-04-2026 00:29:01
+gemma2:2b,qa,Explain how a transformer model works in simple terms....,0.858,28.424,13.55,2019,10011.12,11-04-2026 00:29:29
+gemma2:2b,qa,What is the CAP theorem in distributed systems?...,0.811,40.937,13.26,3008,10161.49,11-04-2026 00:30:10
+gemma2:2b,qa,What is the difference between supervised and unsupervised l...,0.824,28.449,12.83,1977,10220.74,11-04-2026 00:30:39
+gemma2:2b,qa,What is overfitting in machine learning and how do you preve...,1.0,48.503,12.78,3288,10173.05,11-04-2026 00:31:27
+gemma2:2b,qa,What is the difference between a process and a thread?...,0.799,35.21,12.67,2565,10174.24,11-04-2026 00:32:03
+gemma2:2b,documentation,Summarize the pros and cons of using microservices architect...,0.906,27.048,13.09,2240,10145.73,11-04-2026 00:32:30
+gemma2:2b,documentation,Document the key differences between REST and GraphQL APIs....,0.863,56.719,11.99,3959,10166.46,11-04-2026 00:33:26
+gemma2:2b,documentation,Summarize what Docker does and why developers use it....,0.882,22.759,13.05,1733,10164.79,11-04-2026 00:33:49
+gemma2:2b,documentation,Document the SOLID principles of software design in brief....,0.901,16.418,12.79,1158,10274.62,11-04-2026 00:34:06
+gemma2:2b,documentation,Explain the differences between SQL and NoSQL databases....,1.04,74.235,12.55,4975,10354.59,11-04-2026 00:35:20
+gemma2:2b,documentation,Summarize what Agile methodology is and its core principles....,0.976,25.503,12.67,1919,10337.55,11-04-2026 00:35:45

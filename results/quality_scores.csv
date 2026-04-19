@@ -1,0 +1,16 @@
+model,category,quality_score,timestamp
+phi4-mini,code,3,11-04-2026 10:49:54
+phi4-mini,translation,4,11-04-2026 10:49:54
+phi4-mini,writing,4,11-04-2026 10:49:54
+phi4-mini,qa,3,11-04-2026 10:49:54
+phi4-mini,documentation,4,11-04-2026 10:49:54
+llama3.2,code,4,11-04-2026 10:49:54
+llama3.2,translation,4,11-04-2026 10:49:54
+llama3.2,writing,5,11-04-2026 10:49:54
+llama3.2,qa,4,11-04-2026 10:49:54
+llama3.2,documentation,5,11-04-2026 10:49:54
+gemma2:2b,code,4,11-04-2026 10:49:54
+gemma2:2b,translation,3,11-04-2026 10:49:54
+gemma2:2b,writing,3,11-04-2026 10:49:54
+gemma2:2b,qa,4,11-04-2026 10:49:54
+gemma2:2b,documentation,4,11-04-2026 10:49:54

@@ -1,0 +1,120 @@
+phi4-mini,Write Java code to reverse a singly linked list....,0.73,28.908,10.07,1681
+phi4-mini,"Translate 'Hi, I am an AI Chatbot' to Hindi...",0.998,2.168,6.92,30
+phi4-mini,Draft an email to HR manager for leave approval....,0.777,17.369,11.69,1130
+phi4-mini,Explain types of ML learning techniques....,0.717,37.333,11.89,2622
+phi4-mini,Document pros and cons of EVs...,0.753,59.772,10.96,3867
+llama3.2,Write Java code to reverse a singly linked list....,5.457,52.74,9.29,2521
+llama3.2,"Translate 'Hi, I am an AI Chatbot' to Hindi...",1.061,2.272,7.04,28
+llama3.2,Draft an email to HR manager for leave approval....,0.962,17.994,11.73,983
+llama3.2,Explain types of ML learning techniques....,0.906,51.083,10.41,2811
+llama3.2,Document pros and cons of EVs...,0.875,51.356,11.53,3056
+gemma2:2b,Write Java code to reverse a singly linked list....,5.667,61.233,9.18,2605
+gemma2:2b,"Translate 'Hi, I am an AI Chatbot' to Hindi...",0.898,17.555,10.88,745
+gemma2:2b,Draft an email to HR manager for leave approval....,0.77,12.774,11.27,649
+gemma2:2b,Explain types of ML learning techniques....,0.691,59.593,11.38,3638
+gemma2:2b,Document pros and cons of EVs...,0.68,41.946,11.59,2887
+phi4-mini,Write Java code to reverse a singly linked list....,5.92,53.512,9.38,2597,43.29,43.78,0.49,05-04-2026 12:55:36
+phi4-mini,"Translate 'Hi, I am an AI Chatbot' to Hindi....",0.99,2.495,6.41,32,43.92,43.95,0.03,05-04-2026 12:55:39
+phi4-mini,Draft an email to HR manager for leave approval....,0.931,39.965,11.03,2359,43.95,43.89,-0.06,05-04-2026 12:56:19
+phi4-mini,Explain types of ML learning techniques....,0.676,38.038,8.6,1938,43.9,43.89,-0.01,05-04-2026 12:56:57
+phi4-mini,Document pros and cons of EVs....,1.033,47.126,10.5,3137,43.89,43.91,0.02,05-04-2026 12:57:44
+phi4-mini,Write a Python function to find the factorial of a...,1.005,30.4,9.51,1362,43.91,43.92,0.01,05-04-2026 12:58:14
+phi4-mini,Translate 'Nice to meet you' in French....,0.916,6.982,10.03,329,43.92,43.94,0.02,05-04-2026 12:58:21
+phi4-mini,Write a cover letter for a software engineering in...,0.899,26.514,10.86,1695,43.94,43.95,0.01,05-04-2026 12:58:48
+phi4-mini,What is the difference between RAM and ROM?...,0.907,30.048,10.05,1555,43.95,43.96,0.01,05-04-2026 12:59:18
+phi4-mini,Summarize the Hamlet in 500 words....,0.928,78.56,10.21,3818,43.96,44.08,0.12,05-04-2026 13:00:36
+llama3.2,Write Java code to reverse a singly linked list....,6.814,46.119,9.32,2278,44.08,44.09,0.01,05-04-2026 13:01:22
+llama3.2,"Translate 'Hi, I am an AI Chatbot' to Hindi....",1.122,2.349,7.24,29,44.09,44.06,-0.03,05-04-2026 13:01:25
+llama3.2,Draft an email to HR manager for leave approval....,0.948,22.066,12.55,1401,44.06,44.07,0.01,05-04-2026 13:01:47
+llama3.2,Explain types of ML learning techniques....,0.892,38.184,12.18,2405,44.07,44.07,0.0,05-04-2026 13:02:25
+llama3.2,Document pros and cons of EVs....,0.923,46.309,12.03,2882,44.07,29.63,-14.44,05-04-2026 13:03:11
+llama3.2,Write a Python function to find the factorial of a...,1.157,11.632,8.94,554,29.63,29.63,0.0,05-04-2026 13:03:23
+llama3.2,Translate 'Nice to meet you' in French....,0.987,6.443,11.02,297,29.63,29.64,0.01,05-04-2026 13:03:29
+llama3.2,Write a cover letter for a software engineering in...,0.954,40.688,12.61,2778,29.64,29.64,0.0,05-04-2026 13:04:10
+llama3.2,What is the difference between RAM and ROM?...,0.94,24.221,12.63,1411,29.64,29.66,0.02,05-04-2026 13:04:34
+llama3.2,Summarize the Hamlet in 500 words....,1.057,49.135,12.33,2849,29.66,29.69,0.03,05-04-2026 13:05:23
+gemma2:2b,Write Java code to reverse a singly linked list....,5.877,70.655,10.11,3243,29.69,21.52,-8.17,05-04-2026 13:06:34
+gemma2:2b,"Translate 'Hi, I am an AI Chatbot' to Hindi....",0.924,14.552,12.44,760,21.52,21.53,0.01,05-04-2026 13:06:49
+gemma2:2b,Draft an email to HR manager for leave approval....,0.783,17.038,12.85,1043,21.53,21.53,0.0,05-04-2026 13:07:06
+gemma2:2b,Explain types of ML learning techniques....,0.672,56.063,11.92,3690,21.53,21.57,0.04,05-04-2026 13:08:02
+gemma2:2b,Document pros and cons of EVs....,0.702,46.971,11.58,3264,21.57,21.57,0.0,05-04-2026 13:08:49
+gemma2:2b,Write a Python function to find the factorial of a...,0.822,35.555,10.63,1630,21.57,21.55,-0.02,05-04-2026 13:09:24
+gemma2:2b,Translate 'Nice to meet you' in French....,0.791,7.921,10.73,325,21.56,21.58,0.02,05-04-2026 13:09:32
+gemma2:2b,Write a cover letter for a software engineering in...,0.793,38.242,11.71,2445,21.58,21.6,0.02,05-04-2026 13:10:11
+gemma2:2b,What is the difference between RAM and ROM?...,0.787,30.57,12.14,1730,21.6,21.32,-0.28,05-04-2026 13:10:41
+gemma2:2b,Summarize the Hamlet in 500 words....,0.827,60.173,12.2,3771,21.33,21.35,0.02,05-04-2026 13:11:41
+phi4-mini,Write Java code to reverse a singly linked list....,6.328,80.091,8.86,3679,43.3,43.21,-0.09,05-04-2026 13:13:24
+phi4-mini,"Translate 'Hi, I am an AI Chatbot' to Hindi....",1.179,2.489,6.03,30,43.24,43.28,0.04,05-04-2026 13:13:26
+phi4-mini,Draft an email to HR manager for leave approval....,0.97,17.062,10.61,980,43.28,43.29,0.01,05-04-2026 13:13:43
+phi4-mini,Explain types of ML learning techniques....,0.803,40.96,10.69,2496,43.29,43.29,0.0,05-04-2026 13:14:24
+phi4-mini,Document pros and cons of EVs....,0.869,29.966,10.95,1933,43.29,43.3,0.01,05-04-2026 13:14:54
+phi4-mini,Write a Python function to find the factorial of a...,1.055,60.322,9.33,2964,43.3,43.31,0.01,05-04-2026 13:15:54
+phi4-mini,Translate 'Nice to meet you' in French....,0.986,8.078,9.53,366,43.31,43.33,0.02,05-04-2026 13:16:03
+phi4-mini,Write a cover letter for a software engineering in...,0.928,26.952,10.17,1564,43.33,43.34,0.01,05-04-2026 13:16:29
+phi4-mini,What is the difference between RAM and ROM?...,0.951,28.412,10.28,1523,43.34,43.35,0.01,05-04-2026 13:16:58
+phi4-mini,Summarize the Hamlet in 500 words....,0.978,133.171,9.6,6143,43.38,43.48,0.1,05-04-2026 13:19:11
+llama3.2,Write Java code to reverse a singly linked list....,6.499,48.265,9.32,2402,43.55,43.55,0.0,05-04-2026 13:19:59
+llama3.2,"Translate 'Hi, I am an AI Chatbot' to Hindi....",1.194,2.539,7.09,32,43.55,43.56,0.01,05-04-2026 13:20:02
+llama3.2,Draft an email to HR manager for leave approval....,1.103,20.677,11.9,1108,43.56,43.57,0.01,05-04-2026 13:20:23
+llama3.2,Explain types of ML learning techniques....,0.886,42.876,12.43,2704,43.57,23.74,-19.83,05-04-2026 13:21:05
+llama3.2,Document pros and cons of EVs....,0.904,35.786,12.6,2266,23.74,23.75,0.01,05-04-2026 13:21:41
+llama3.2,Write a Python function to find the factorial of a...,1.111,8.463,9.33,348,23.75,23.75,0.0,05-04-2026 13:21:50
+llama3.2,Translate 'Nice to meet you' in French....,0.991,6.058,11.39,292,23.75,23.75,0.0,05-04-2026 13:21:56
+llama3.2,Write a cover letter for a software engineering in...,0.989,43.43,12.62,2949,23.75,23.78,0.03,05-04-2026 13:22:39
+llama3.2,What is the difference between RAM and ROM?...,0.94,33.295,12.67,2075,23.78,23.79,0.01,05-04-2026 13:23:12
+llama3.2,Summarize the Hamlet in 500 words....,1.028,48.08,12.58,2790,23.79,23.77,-0.02,05-04-2026 13:24:01
+gemma2:2b,Write Java code to reverse a singly linked list....,5.104,61.24,9.7,2836,23.77,15.45,-8.32,05-04-2026 13:25:02
+gemma2:2b,"Translate 'Hi, I am an AI Chatbot' to Hindi....",0.963,13.242,12.01,564,15.48,15.48,0.0,05-04-2026 13:25:15
+gemma2:2b,Draft an email to HR manager for leave approval....,0.831,20.249,12.15,1233,15.48,12.6,-2.88,05-04-2026 13:25:35
+gemma2:2b,Explain types of ML learning techniques....,0.697,50.898,11.67,3149,12.6,12.61,0.01,05-04-2026 13:26:26
+gemma2:2b,Document pros and cons of EVs....,0.72,43.23,12.75,3210,12.61,12.62,0.01,05-04-2026 13:27:09
+gemma2:2b,Write a Python function to find the factorial of a...,0.91,38.673,10.86,1792,12.62,12.63,0.01,05-04-2026 13:27:48
+gemma2:2b,Translate 'Nice to meet you' in French....,0.893,14.649,11.06,690,12.63,12.64,0.01,05-04-2026 13:28:03
+gemma2:2b,Write a cover letter for a software engineering in...,0.798,36.609,11.61,2323,12.64,12.71,0.07,05-04-2026 13:28:39
+gemma2:2b,What is the difference between RAM and ROM?...,0.78,46.704,10.88,2573,12.71,12.72,0.01,05-04-2026 13:29:26
+gemma2:2b,Summarize the Hamlet in 500 words....,0.809,65.343,11.69,3981,12.72,12.71,-0.01,05-04-2026 13:30:31
+phi4-mini,Write Java code to reverse a singly linked list....,7.79,66.631,9.49,3188,13033.87,15300.05,2266.18,06-04-2026 09:30:37
+phi4-mini,"Translate 'Hi, I am an AI Chatbot' to Hindi....",1.161,2.947,7.46,42,15300.15,15313.08,12.93,06-04-2026 09:30:40
+phi4-mini,Draft an email to HR manager for leave approval....,0.972,19.63,11.31,1233,15313.08,15128.65,-184.43,06-04-2026 09:31:00
+phi4-mini,Explain types of ML learning techniques....,0.742,40.723,11.15,2540,15128.74,13738.36,-1390.38,06-04-2026 09:31:40
+phi4-mini,Document pros and cons of EVs....,0.974,50.212,11.29,3377,13738.36,13853.95,115.59,06-04-2026 09:32:31
+llama3.2,Write Java code to reverse a singly linked list....,7.262,51.555,10.3,2809,13853.96,11571.0,-2282.96,06-04-2026 09:33:22
+llama3.2,"Translate 'Hi, I am an AI Chatbot' to Hindi....",1.171,2.316,7.34,30,11571.0,11575.04,4.04,06-04-2026 09:33:24
+llama3.2,Draft an email to HR manager for leave approval....,0.903,14.532,13.42,965,11575.04,11548.16,-26.88,06-04-2026 09:33:39
+llama3.2,Explain types of ML learning techniques....,0.91,47.454,13.09,3132,11548.16,11613.48,65.32,06-04-2026 09:34:26
+llama3.2,Document pros and cons of EVs....,0.909,42.661,13.45,2824,11613.64,11608.23,-5.41,06-04-2026 09:35:09
+gemma2:2b,Write Java code to reverse a singly linked list....,5.783,51.076,10.45,2566,11608.3,13596.7,1988.4,06-04-2026 09:36:00
+gemma2:2b,"Translate 'Hi, I am an AI Chatbot' to Hindi....",0.959,12.809,12.96,644,13596.7,13567.51,-29.19,06-04-2026 09:36:13
+gemma2:2b,Draft an email to HR manager for leave approval....,0.885,21.337,13.54,1371,13567.51,13655.11,87.6,06-04-2026 09:36:34
+gemma2:2b,Explain types of ML learning techniques....,0.706,60.429,13.04,4266,13655.11,13993.02,337.91,06-04-2026 09:37:35
+gemma2:2b,Document pros and cons of EVs....,0.71,34.121,13.92,2935,13993.34,13943.39,-49.95,06-04-2026 09:38:09
+phi4-mini,Write Java code to reverse a singly linked list....,6.595,50.96,9.12,2511,12228.32,06-04-2026 09:46:10
+phi4-mini,"Translate 'Hi, I am an AI Chatbot' to Hindi....",1.038,2.236,6.71,30,12135.86,06-04-2026 09:46:12
+phi4-mini,Draft an email to HR manager for leave approval....,0.87,24.454,11.37,1307,12152.26,06-04-2026 09:46:37
+phi4-mini,Explain types of ML learning techniques....,0.796,30.266,11.07,1816,12096.84,06-04-2026 09:47:07
+phi4-mini,Document pros and cons of EVs....,0.802,30.197,11.49,1997,12428.29,06-04-2026 09:47:37
+phi4-mini,Write a Python function to find the factorial of a...,1.467,42.445,10.44,2348,12464.79,06-04-2026 09:48:20
+phi4-mini,Translate 'Nice to meet you' in French....,1.033,10.429,10.84,550,12244.96,06-04-2026 09:48:30
+phi4-mini,Write a cover letter for a software engineering in...,0.838,36.481,11.24,2437,12277.22,06-04-2026 09:49:07
+phi4-mini,What is the difference between RAM and ROM?...,0.927,32.98,11.13,1946,12283.7,06-04-2026 09:49:40
+phi4-mini,Explain the movie 'Oppenheimer' in 500 words....,1.074,70.466,10.9,4293,12290.08,06-04-2026 09:50:50
+llama3.2,Write Java code to reverse a singly linked list....,6.83,38.026,9.41,2014,14472.2,06-04-2026 09:51:28
+llama3.2,"Translate 'Hi, I am an AI Chatbot' to Hindi....",1.122,7.043,11.93,158,14097.05,06-04-2026 09:51:35
+llama3.2,Draft an email to HR manager for leave approval....,0.9,15.554,13.37,1011,14109.07,06-04-2026 09:51:51
+llama3.2,Explain types of ML learning techniques....,0.965,35.76,13.79,2470,14130.61,06-04-2026 09:52:26
+llama3.2,Document pros and cons of EVs....,0.841,37.024,13.96,2628,14120.87,06-04-2026 09:53:03
+llama3.2,Write a Python function to find the factorial of a...,1.029,8.424,10.21,438,14119.12,06-04-2026 09:53:12
+llama3.2,Translate 'Nice to meet you' in French....,0.925,10.709,13.35,552,13624.64,06-04-2026 09:53:23
+llama3.2,Write a cover letter for a software engineering in...,0.905,34.455,14.34,2683,13582.86,06-04-2026 09:53:57
+llama3.2,What is the difference between RAM and ROM?...,0.805,20.277,14.3,1409,13693.51,06-04-2026 09:54:17
+llama3.2,Explain the movie 'Oppenheimer' in 500 words....,1.136,42.461,13.49,2896,13770.8,06-04-2026 09:55:00
+gemma2:2b,Write Java code to reverse a singly linked list....,16.392,73.233,9.64,3187,14988.13,06-04-2026 09:56:13
+gemma2:2b,"Translate 'Hi, I am an AI Chatbot' to Hindi....",0.976,10.572,12.68,472,12322.7,06-04-2026 09:56:24
+gemma2:2b,Draft an email to HR manager for leave approval....,0.819,18.837,13.22,1212,12335.97,06-04-2026 09:56:42
+gemma2:2b,Explain types of ML learning techniques....,0.768,48.181,12.85,3389,12410.88,06-04-2026 09:57:31
+gemma2:2b,Document pros and cons of EVs....,0.753,42.177,12.28,3024,12448.57,06-04-2026 09:58:13
+gemma2:2b,Write a Python function to find the factorial of a...,0.928,34.381,11.17,1610,11867.59,06-04-2026 09:58:47
+gemma2:2b,Translate 'Nice to meet you' in French....,1.214,15.109,11.32,705,12167.56,06-04-2026 09:59:02
+gemma2:2b,Write a cover letter for a software engineering in...,0.945,31.491,12.99,2229,11999.09,06-04-2026 09:59:34
+gemma2:2b,What is the difference between RAM and ROM?...,0.837,33.978,12.57,2113,11892.02,06-04-2026 10:00:08
+gemma2:2b,Explain the movie 'Oppenheimer' in 500 words....,1.084,41.379,13.2,3099,9487.87,06-04-2026 10:00:49

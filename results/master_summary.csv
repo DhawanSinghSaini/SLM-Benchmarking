@@ -1,0 +1,4 @@
+model,avg_ttft_seconds,avg_latency_seconds,avg_tokens_per_second,avg_peak_memory_mb,avg_quality_score,schema_compliance_pct
+phi4-mini,1.365,25.52,9.45,13578.72,3.6,73.3
+llama3.2,1.268,24.16,11.68,12448.63,4.4,86.7
+gemma2:2b,1.033,28.4,12.23,11085.99,3.6,100.0

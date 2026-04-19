@@ -1,0 +1,61 @@
+model,temperature,prompt,category,confidence,word_count,summary,status,timestamp
+phi4-mini,0.0,Write a Python function to find the factorial of a...,code,1.0,37,Defines a recursive function to calculate the factorial of an integer.,PASSED,10-04-2026 09:40:52
+phi4-mini,0.0,Translate 'Nice to meet you' in French....,translation,1.0,4,Translation of the phrase 'Nice to meet you'.,PASSED,10-04-2026 09:41:00
+phi4-mini,0.0,Draft an email to HR manager for leave approval....,N/A,0,0,FAILED,FAILED,10-04-2026 09:41:34
+phi4-mini,0.0,What is the difference between RAM and ROM?...,code,0.95,21,RAM is volatile and used for temporary data storage; ROM is non-volatile with fixed functions.,PASSED,10-04-2026 09:41:47
+phi4-mini,0.0,Summarize the movie Oppenheimer in 3 sentences....,writing,0.95,100,Oppenheimer delves into J. Robert Oppenheimer's life and moral dilemmas as a nuclear physicist during WWII.,PASSED,10-04-2026 09:42:03
+phi4-mini,0.3,Write a Python function to find the factorial of a...,code,1.0,35,Defines a recursive function to calculate the factorial of an integer.,PASSED,10-04-2026 09:42:13
+phi4-mini,0.3,Translate 'Nice to meet you' in French....,translation,1.0,4,Translation of the phrase 'Nice to meet you' into French.,PASSED,10-04-2026 09:42:21
+phi4-mini,0.3,Draft an email to HR manager for leave approval....,N/A,0,0,FAILED,FAILED,10-04-2026 09:42:59
+phi4-mini,0.3,What is the difference between RAM and ROM?...,code,0.95,21,RAM is a type of volatile memory used for temporary storage and data access in any order; ROM stores immutable program code.,PASSED,10-04-2026 09:43:16
+phi4-mini,0.3,Summarize the movie Oppenheimer in 3 sentences....,writing,0.95,30,Oppenheimer is a biographical drama about J. Robert Oppenheimer's life and his role in developing atomic bombs.,PASSED,10-04-2026 09:43:33
+phi4-mini,0.5,Write a Python function to find the factorial of a...,code,1.0,37,Defines a recursive function to calculate the factorial of an integer.,PASSED,10-04-2026 09:51:46
+phi4-mini,0.5,Translate 'Nice to meet you' in French....,translation,1.0,4,'Nice to meet you' translated into French.,PASSED,10-04-2026 09:51:55
+phi4-mini,0.5,Draft an email to HR manager for leave approval....,N/A,0,0,FAILED,FAILED,10-04-2026 10:09:54
+phi4-mini,0.5,What is the difference between RAM and ROM?...,translation,0.95,20,"RAM is for read-write access and temporary data storage while CPU uses it; ROM contains permanent, unchangeable instructions.",PASSED,10-04-2026 10:10:14
+phi4-mini,0.5,Summarize the movie Oppenheimer in 3 sentences....,translation,0.85,21,"A biographical drama about J. Robert Oppenheimer's role in developing nuclear weapons, his moral dilemmas with scientific discoveries leading to atomic bombings of Hiroshima and Nagasaki.",PASSED,10-04-2026 10:10:32
+phi4-mini,0.7,Write a Python function to find the factorial of a...,code,1.0,30,Provides a Python function to calculate the factorial of an input number.,PASSED,10-04-2026 10:10:46
+phi4-mini,0.7,Translate 'Nice to meet you' in French....,translation,1.0,3,Translation of the phrase 'Nice to meet you' into French.,PASSED,10-04-2026 10:10:54
+phi4-mini,0.7,Draft an email to HR manager for leave approval....,N/A,0,0,FAILED,FAILED,10-04-2026 10:12:01
+phi4-mini,0.7,What is the difference between RAM and ROM?...,code,0.95,20,RAM is volatile and can be read/written during operation; ROM contains permanent data.,PASSED,10-04-2026 10:12:14
+phi4-mini,0.7,Summarize the movie Oppenheimer in 3 sentences....,translation,0.9,89,"A historical drama about J. Robert Oppenheimer's moral and personal struggles with the implications of his work creating nuclear weapons, including political scrutiny post-WWII.",PASSED,10-04-2026 10:12:40
+llama3.2,0.0,Write a Python function to find the factorial of a...,code,1.0,76,Calculates the factorial of a given number,PASSED,10-04-2026 10:12:57
+llama3.2,0.0,Translate 'Nice to meet you' in French....,translation,1.0,2,A polite way to greet someone,PASSED,10-04-2026 10:13:03
+llama3.2,0.0,Draft an email to HR manager for leave approval....,writing,0.9,76,Requesting leave of absence with sufficient paid leave balance,PASSED,10-04-2026 10:13:16
+llama3.2,0.0,What is the difference between RAM and ROM?...,documentation,0.9,23,RAM vs ROM,PASSED,10-04-2026 10:13:25
+llama3.2,0.0,Summarize the movie Oppenheimer in 3 sentences....,writing,0.9,76,Oppenheimer is a biographical drama film about J. Robert Oppenheimer's role in developing the atomic bomb.,PASSED,10-04-2026 10:13:42
+llama3.2,0.3,Write a Python function to find the factorial of a...,code,1.0,76,Calculates the factorial of a given number using recursion,PASSED,10-04-2026 10:13:52
+llama3.2,0.3,Translate 'Nice to meet you' in French....,translation,0.95,3,A polite way to greet someone in French,PASSED,10-04-2026 10:13:58
+llama3.2,0.3,Draft an email to HR manager for leave approval....,writing,0.9,76,Formal email requesting leave of absence to HR manager,PASSED,10-04-2026 10:14:12
+llama3.2,0.3,What is the difference between RAM and ROM?...,documentation,0.9,23,RAM vs ROM,PASSED,10-04-2026 10:14:20
+llama3.2,0.3,Summarize the movie Oppenheimer in 3 sentences....,writing,0.9,46,Oppenheimer is a biographical drama film about J. Robert Oppenheimer's role in developing the atomic bomb,PASSED,10-04-2026 10:14:36
+llama3.2,0.5,Write a Python function to find the factorial of a...,code,1.0,31,Calculates the factorial of a given number using Python's built-in math library.,PASSED,10-04-2026 10:14:43
+llama3.2,0.5,Translate 'Nice to meet you' in French....,translation,1.0,5,The English greeting is translated directly into French,PASSED,10-04-2026 10:14:49
+llama3.2,0.5,Draft an email to HR manager for leave approval....,writing,0.9,76,Email template for requesting leave approval,PASSED,10-04-2026 10:15:06
+llama3.2,0.5,What is the difference between RAM and ROM?...,documentation,0.9,23,RAM and ROM serve different purposes in a computer,PASSED,10-04-2026 10:15:15
+llama3.2,0.5,Summarize the movie Oppenheimer in 3 sentences....,writing,0.9,56,Oppenheimer is a biographical drama about J. Robert Oppenheimer and his struggles with creating the atomic bomb.,PASSED,10-04-2026 10:15:30
+llama3.2,0.7,Write a Python function to find the factorial of a...,code,1.0,91,Calculates the factorial of a given number,PASSED,10-04-2026 10:15:39
+llama3.2,0.7,Translate 'Nice to meet you' in French....,translation,0.95,5,A polite way to say hello in French,PASSED,10-04-2026 10:15:46
+llama3.2,0.7,Draft an email to HR manager for leave approval....,writing,0.9,106,Email template for requesting leave approval,PASSED,10-04-2026 10:16:00
+llama3.2,0.7,What is the difference between RAM and ROM?...,documentation,0.9,23,The difference between RAM and ROM is their purpose and volatility,PASSED,10-04-2026 10:16:11
+llama3.2,0.7,Summarize the movie Oppenheimer in 3 sentences....,writing,0.9,46,The movie Oppenheimer is a biographical drama about J. Robert Oppenheimer,PASSED,10-04-2026 10:16:26
+gemma2:2b,0.0,Write a Python function to find the factorial of a...,code,0.95,67,This function calculates the factorial of a given number using recursion.,PASSED,10-04-2026 10:16:46
+gemma2:2b,0.0,Translate 'Nice to meet you' in French....,translation,0.95,12,This translates 'Nice to meet you' into French.,PASSED,10-04-2026 10:16:54
+gemma2:2b,0.0,Draft an email to HR manager for leave approval....,qa,0.95,107,This email is a draft for an employee to request leave of absence from HR manager.,PASSED,10-04-2026 10:17:11
+gemma2:2b,0.0,What is the difference between RAM and ROM?...,qa,0.95,124,RAM and ROM are two types of memory used by computers.,PASSED,10-04-2026 10:17:25
+gemma2:2b,0.0,Summarize the movie Oppenheimer in 3 sentences....,qa,0.95,87,Oppenheimer's story explores the creation and moral implications of the atomic bomb.,PASSED,10-04-2026 10:17:40
+gemma2:2b,0.3,Write a Python function to find the factorial of a...,code,0.9,83,This function calculates the factorial of a number using recursion.,PASSED,10-04-2026 10:17:56
+gemma2:2b,0.3,Translate 'Nice to meet you' in French....,translation,0.95,12,This translates 'Nice to meet you' into French.,PASSED,10-04-2026 10:18:04
+gemma2:2b,0.3,Draft an email to HR manager for leave approval....,qa,0.95,78,This email requests leave of absence approval from [HR Manager's name] for [start date] to [end date].,PASSED,10-04-2026 10:18:15
+gemma2:2b,0.3,What is the difference between RAM and ROM?...,qa,0.95,104,"RAM and ROM are two types of computer memory with different functions: RAM stores data actively used by the computer, while ROM holds permanent instructions for starting up.",PASSED,10-04-2026 10:18:30
+gemma2:2b,0.3,Summarize the movie Oppenheimer in 3 sentences....,qa,0.95,76,"The film 'Oppenheimer' explores the complex life and legacy of J. Robert Oppenheimer, the father of the atomic bomb.",PASSED,10-04-2026 10:18:46
+gemma2:2b,0.5,Write a Python function to find the factorial of a...,code,0.95,67,This function calculates the factorial of a given number using recursion.,PASSED,10-04-2026 10:18:58
+gemma2:2b,0.5,Translate 'Nice to meet you' in French....,translation,0.95,17,This translates 'Nice to meet you' into French: 'Enchanté de vous rencontrer.',PASSED,10-04-2026 10:19:06
+gemma2:2b,0.5,Draft an email to HR manager for leave approval....,qa,0.95,108,"This email requests leave from work for [Start date] to [End date], and details the reason for absence.",PASSED,10-04-2026 10:19:25
+gemma2:2b,0.5,What is the difference between RAM and ROM?...,qa,0.95,127,RAM is used for temporary data storage and ROM stores permanent instructions.,PASSED,10-04-2026 10:19:39
+gemma2:2b,0.5,Summarize the movie Oppenheimer in 3 sentences....,qa,0.95,124,Oppenheimer's story explores the ethical dilemmas surrounding the development of nuclear weapons.,PASSED,10-04-2026 10:19:56
+gemma2:2b,0.7,Write a Python function to find the factorial of a...,code,0.95,63,This Python function calculates the factorial of a non-negative integer using recursion.,PASSED,10-04-2026 10:20:08
+gemma2:2b,0.7,Translate 'Nice to meet you' in French....,translation,0.95,13,The translation is 'Pleased to meet you.',PASSED,10-04-2026 10:20:15
+gemma2:2b,0.7,Draft an email to HR manager for leave approval....,qa,0.9,41,Requesting leave of absence approval for [reason for leave] from [start date] to [end date].,PASSED,10-04-2026 10:20:25
+gemma2:2b,0.7,What is the difference between RAM and ROM?...,qa,0.95,142,RAM and ROM are different types of computer memory.,PASSED,10-04-2026 10:20:40
+gemma2:2b,0.7,Summarize the movie Oppenheimer in 3 sentences....,qa,0.95,127,Oppenheimer's atomic bomb creation and its consequences form a central theme in this historical drama.,PASSED,10-04-2026 10:20:58
